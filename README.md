@@ -1,4 +1,5 @@
 Esse é um projeto realizado em grupo para o curso Técnicas de Programação II em Python, doIfood.
+
 Nesse estudo, buscamos analisar os dados de tuberculose do Sinan, Sistema de Informação de Agravos de Notificação, do SUS, para o ano de 2022.
 A base de dados foi convertida em CSV e depois selecionamos as colunas que iríamos usar salvando em outro Dataset. 
 Criamos gráficos sobre:
