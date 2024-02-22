@@ -3,21 +3,38 @@ Nesse estudo, buscamos analisar os dados de tuberculose do Sinan, Sistema de Inf
 A base de dados foi convertida em CSV e depois selecionamos as colunas que iríamos usar salvando em outro Dataset. 
 Criamos gráficos sobre:
 Porcentagem de casos femininos e masculinos por estado
+
 ![image](https://github.com/daphneassis/Tuberculose-Sinan-RJ/assets/102676450/91483c04-8214-4bb5-b731-afc829afde0b)
 
 Casos de Tuberculose de Estrangeiros* por estado
 *Imigrantes com menos de 2 anos no país
+
+![image](https://github.com/daphneassis/Tuberculose-Sinan-RJ/assets/102676450/6967b19a-4a2c-4e90-9915-c420cc3eee79)
+
 Casos de Tuberculose em população carcerária por Estado 
-Casos de Tuberculose em população de rua sobre o total de casos por Estado 
-Mês com maior quantidade de casos da doença por estado
+
+![image](https://github.com/daphneassis/Tuberculose-Sinan-RJ/assets/102676450/c1c3ae8f-4272-4f2d-a54c-1ac8db584be3)
+
+Dados de Tuberculose em população de rua sobre o total de casos por Estado 
+
+![image](https://github.com/daphneassis/Tuberculose-Sinan-RJ/assets/102676450/9fb876ab-015b-4e4a-a660-89ef44fa9c18)
+
+
 Casos por estado
+
+![image](https://github.com/daphneassis/Tuberculose-Sinan-RJ/assets/102676450/d917accf-a35a-4e00-9a6c-bd6c21f48c65)
+
 População grávida com casos de tuberculose por estado
-Casos de Tuberculose por escolaridade 
+
+![image](https://github.com/daphneassis/Tuberculose-Sinan-RJ/assets/102676450/964db5b2-a375-4b49-8d02-fc7b96468a2f)
+
 Casos de Tuberculose por idade
+
+![image](https://github.com/daphneassis/Tuberculose-Sinan-RJ/assets/102676450/fe9e1346-a13a-443a-8a45-c98eb4186016)
+
+
 Casos de Tuberculose por Tratamento(Tipo: Recidiva, Casos Novos, Reingresso após abandono, Transferência, etc.)
 ![image](https://github.com/daphneassis/Tuberculose-Sinan-RJ/assets/102676450/24dba3b7-1d3b-4f06-89f1-80b9bb56ef50)
-
-
 
 
 Conclusões:
